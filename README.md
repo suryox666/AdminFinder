@@ -108,18 +108,14 @@ AdminFinder/
 
 ## ⚠️ Disclaimer
 
-```
 Tool ini dibuat hanya untuk tujuan edukasi, CTF, dan pengujian keamanan yang sah.
 Segala bentuk penyalahgunaan sepenuhnya menjadi tanggung jawab pengguna.
-```
 
 ---
 
 ## 👤 Author
 
-```
 suryox
 GitHub: https://github.com/suryox666
 
 "Security is not about breaking systems, but understanding them."
-```
