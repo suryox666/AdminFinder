@@ -83,7 +83,7 @@ AdminFinder/
 │           └── candidate_3.png
 ├── screenshots/
 │   └── priview_candidate.png # contoh screenshot output
-│   └── scan.png              # contoh screenshot tools
+│   └── priview_scan.png      # contoh screenshot tools
 └── README.md
 ```
 
