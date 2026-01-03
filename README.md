@@ -109,6 +109,7 @@ AdminFinder/
 ## ⚠️ Disclaimer
 
 Tool ini dibuat hanya untuk tujuan edukasi, CTF, dan pengujian keamanan yang sah.
+
 Segala bentuk penyalahgunaan sepenuhnya menjadi tanggung jawab pengguna.
 
 ---
