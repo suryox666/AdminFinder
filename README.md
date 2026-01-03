@@ -84,6 +84,7 @@ AdminFinder/
 ├── screenshots/
 │   └── priview_candidate.png # contoh screenshot output
 │   └── priview_scan.png      # contoh screenshot tools
+├── requirements.txt
 └── README.md
 ```
 
