@@ -1,0 +1,8 @@
+requests
+tqdm
+colorama
+termcolor
+selenium
+webdriver-manager
+Pillow
+playwright
